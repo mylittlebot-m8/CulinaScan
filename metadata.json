@@ -1,0 +1,8 @@
+{
+  "name": "Smart Fridge & Culinary Assistant",
+  "description": "Analyze your fridge to get AI-suggested recipes. Step-by-step cooking and auto shopping list features included.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
